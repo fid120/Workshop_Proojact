@@ -1,0 +1,21 @@
+h1 {
+  color: magenta;
+  background-color: darkblue;
+}
+.list-item{
+  font-family: monospace;
+}
+
+#css-item {
+  color: #5179ba;
+}
+#goal-list {
+  border-style: solid;
+  border-color: #5179ba;
+}
+#picture {
+  width: 60%;
+  float: right;
+  border: solid;
+  border-color: gray magenta blue green;
+}
